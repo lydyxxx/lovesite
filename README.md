@@ -19,3 +19,8 @@
 - **Музыкальный плеер**  
   Реализован плеер с использованием Swiper для прокрутки альбомов. Здесь можно прослушивать музыку, переключать треки, а также видеть информацию о текущем исполнителе и названии песни.
 
+![image](https://github.com/user-attachments/assets/8374c648-86bc-4889-8c91-0377cf891f54)
+![image](https://github.com/user-attachments/assets/fa320e1e-c9fd-4a29-8587-df5902203348)
+![image](https://github.com/user-attachments/assets/b9537a0f-5e6b-4fd8-9808-cd709d8308f7)
+![image](https://github.com/user-attachments/assets/d0cb0fb0-ed0b-4240-9622-01323d18c64c)
+
